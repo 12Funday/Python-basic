@@ -6,6 +6,7 @@ Pada repository ini, saya mengerjakan _exercise_ mengenai bahasa pemrograman Pyt
 
 ## Chapter 1 Python Basics
 source : https://www.tomasbeuzen.com/python-programming-for-data-science/practice-exercises/chapter1-basics-practice.html
+
 Objectives : 
 * Create, describe and differentiate standard Python datatypes such as int, float, string, list, dict, tuple, etc.
 * Perform arithmetic operations like +, -, *, ** on numeric values.
